@@ -34,7 +34,7 @@ At the Tuebingen meeting, we will present various open source hardware devices d
 
 <br>
 
-<h3 align="center"> Arbitrary spectrum visual stimulators for vision research: </h3>
+<h2 align="center"> Arbitrary spectrum visual stimulators for vision research: </h2>
 
 <br>
 
@@ -89,7 +89,6 @@ The repository with the entire documentation about these systems can be found <a
 <br>
 
 <div>
-
 <h4 align="left"> PoorLabs Stimulator: An open visual stimulator granting the use of multiple arbitrary light source in combination with a DMD-based LightCrafter </h4>
 
 <p style='text-align: justify;'>
@@ -100,27 +99,12 @@ light sources and one <a href="https://www.ti.com/lit/ug/dlpu011f/dlpu011f.pdf?t
 <p style='text-align: justify;'>
 The repository with the entire documentation about these systems can be found <a href="https://github.com/OpenSourceNeuro/PoorLabs-Stimulator-V2">here</a>
 </p>
-
-<br>
-
 </div>
 
 <br>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-<h3 align="left"> Spikeling: An artificial and light-sensitive neuron for neuroscience education </h3>
+<h2 align="left"> Spikeling: An artificial and light-sensitive neuron for neuroscience education </h2>
 
 
 <div>
@@ -148,10 +132,8 @@ Technically, it consists on a microcontroller (an ESP32) running the computation
 <br>
 
 <div>
-<img align="center" src="./assets/img//PCB.png" width="350" height="225" >
-
-<img align="center"  src="./assets/img//Spikeling_cover.png" width="350" height="225">
-
+<img align="center" src="./assets/img/PCB.png" width="350" height="225">
+<img align="center"  src="./assets/img/Spikeling_cover.png" width="350" height="225">
 <h6 align="center">Left: Rendering of spikeling electronic components. Right: Acrylic cover detailing spikeling functionalities.</h6>
 </div>
 
