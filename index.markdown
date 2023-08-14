@@ -10,6 +10,7 @@ cover-img:
 ---
 
 <div>
+<img align="left" width="100" src="./assets/Logos/ERM_2023.png"/></p>
 <h1 align="center"> Open Hardware @ ERM 2023</h1>
 <h4 align="center"> Open Science tools for Neuroscience</h4>
 <p align="right">by
@@ -28,4 +29,4 @@ However, replicating open source devices could be time consuming or sometimes re
 </p>
 
 <p style='text-align: justify;'>
-At the Tuebingen meeting, we will present various open source hardware devices dedicated to visual neuroscience research and education:</p> 
+At the Tuebingen meeting, we will present various open source hardware devices dedicated to visual neuroscience research and education:</p>
