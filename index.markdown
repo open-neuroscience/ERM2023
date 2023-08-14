@@ -12,6 +12,7 @@ cover-img:
 <div>
 <img align="left" width="200" src="./assets/Logos/ERM_2023_LOGO.png"/>
 <br>
+<br>
 <h1 align="center"> Open Hardware @ ERM 2023</h1>
 <h4 align="center"> Open Science tools for Neuroscience</h4>
 <p align="right">by
@@ -33,8 +34,27 @@ At the Tuebingen meeting, we will present various open source hardware devices d
 
 <br>
 
-<h4 align="left"> Arbitrary spectrum visual stimulators for vision research </h4>
+<h4 align="center"> Arbitrary spectrum visual stimulators for vision research: </h4>
 
 <br>
+
+<h5 align="left"> LED Zappelin': An Open Source and versatile LED controller for arbitrary spectrum visual stimulation and optogenetics during 2-photon imaging. </h5>
+
+<br>
+
+<div>
+<p style='text-align: justify;'>
+<img align="right" width="300" src="./assets/img/LEDzap.jpg"/>
+
+Combining 2P imaging with additional light stimulation – for example for visual stimulation or for driving optogenetic actuators – has remained challenging because the stimulation light can interfere with fluorescence detection. This can result in light artefacts in the image and/or may damage sensitive fluorescence detection equipment (e.g. photomultiplier tubes, PMTs).
+
+A temporal separation between light stimulation and fluorescence detection, for example during the scan-retrace, can ameliorate these problems. This problem can be readily solved electronically, for example through use of a microcontroller.
+
+Here, we present such a solution. Our system can line-synch up to 24 independent LED channels, and can be assembled from off-the-shelf components for substantially below $100. This provides for flexible options of spectrally diverse light stimulation during 2-photon scanning and comfortably provides sufficient power to drive standard optogenetics actuators such as CsChrimson.
+</p>
+</div>
+
+<br>
+
 
 <h4 align="left"> Spikeling: An artificial and light-sensitive neuron for neuroscience education </h4>
