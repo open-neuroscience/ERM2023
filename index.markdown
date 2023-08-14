@@ -38,7 +38,7 @@ At the Tuebingen meeting, we will present various open source hardware devices d
 
 <br>
 
-<h5 align="left"> LED Zappelin': An Open Source and versatile LED controller for arbitrary spectrum visual stimulation and optogenetics during 2-photon imaging. </h5>
+<h5 align="left"> LED Zappelin': An Open Source and versatile LED controller for arbitrary spectrum visual stimulation and optogenetics during two-photon imaging. </h5>
 
 <br>
 
@@ -47,15 +47,17 @@ At the Tuebingen meeting, we will present various open source hardware devices d
 <img align="right" width="300" src="./assets/img/LEDzap.jpg"/>
 
 <p style='text-align: justify;'>
-Combining 2P imaging with additional light stimulation – for example for visual stimulation or for driving optogenetic actuators – has remained challenging because the stimulation light can interfere with fluorescence detection. This can result in light artefacts in the image and/or may damage sensitive fluorescence detection equipment (e.g. photomultiplier tubes, PMTs).
+Combining two-photon imaging with additional light stimulation – for example for visual stimulation or for driving optogenetic actuators – has remained challenging because the stimulation light can interfere with fluorescence detection. This can result in light artefacts in the image and/or may damage sensitive fluorescence detection equipment.
 </p>
+
+<img align="right" width="300" src="./assets/img/retrace.png"/>
 
 <p style='text-align: justify;'>
 A temporal separation between light stimulation and fluorescence detection, for example during the scan-retrace, can ameliorate these problems. This problem can be readily solved electronically, for example through use of a microcontroller.
 </p>
 
 <p style='text-align: justify;'>
-Here, we present such a solution. Our system can line-synch up to 24 independent LED channels, and can be assembled from off-the-shelf components for substantially below $100. This provides for flexible options of spectrally diverse light stimulation during 2-photon scanning and comfortably provides sufficient power to drive standard optogenetics actuators such as CsChrimson.
+Here, we present such a solution. Our system can line-synch up to 24 independent LED channels, and can be assembled from off-the-shelf components for substantially below $200. This provides for flexible options of spectrally diverse light stimulation during two-photon scanning and comfortably provides sufficient power to drive standard optogenetics actuators such as CsChrimson.
 </p>
 
 </div>
