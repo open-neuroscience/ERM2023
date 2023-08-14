@@ -171,7 +171,6 @@ Enthusiasts and potential collaborators can source the electronic bits for this 
 
 </div>
 
-***
 
 
 <h2 align="center"> A brief summary of Spikeling functions</h3>
@@ -210,8 +209,6 @@ Each Spikeling unit possesses one “axonal” output and two “dendritic” in
 
 <br>
 
-***
-
 <br>
 
 <div>
@@ -246,8 +243,6 @@ For advanced data analysis and basic statistics, python notebooks are provided t
 
 <br>
 
-***
-
 <br>
 
 <div>
@@ -275,8 +270,6 @@ Here users are encouraged to develop their own stimulus (successive waves, sinus
 </div>
 
 <br>
-
-***
 
 <br>
 
@@ -319,8 +312,6 @@ Ultimately, students could be encouraged to analyse imaging data, even implement
 
 <br>
 
-***
-
 <br>
 
 <div>
@@ -340,8 +331,6 @@ We would always encourage teachers to develop their own exercises based on the c
 </div>
 
 <br>
-
-***
 
 <br>
 
@@ -381,8 +370,6 @@ We would always encourage teachers to develop their own exercises based on the c
 
 <br>
 
-***
-
 <br>
 
 ## A spiking neuron interface
@@ -415,8 +402,6 @@ Finally, the last box contains all experimental tools allowing stimuli generatio
 
 <br>
 
-***
-
 <br>
 
 <p style='text-align: justify;'>
@@ -445,8 +430,6 @@ Below the main window, sits the recording window. All last generated data from t
 On the right hand side two control columns can be found. For all commands, when the toggle button is enabled, the GUI takes over the potentiometer and controls directly the Spikeling variables. This allows users to design an experimental protocol in a controlled fashion.
 
 <br>
-
-***
 
 <br>
 
@@ -479,8 +462,6 @@ If Spikeling is connected to other units, the main window can display their Vm a
 Furthermore, users can stimulate the auxiliary Spikeling units in synchrony via the main unit's "Stimulus Output" port by using a splitter audio jack
 
 <br>
-
-***
 
 <br>
 
@@ -551,8 +532,6 @@ Below the stimulus frequency and strength sliders can be found a custom stimulus
 
 <br>
 
-***
-
 <br>
 
 ## Spikeling Stimulus Generator
@@ -601,8 +580,6 @@ All stimuli can then be saved and further loaded from the Spikeling main window.
 
 <br>
 
-***
-
 <br>
 
 ## Spikeling Multiple recording
@@ -634,8 +611,6 @@ TBC
 </div>
 
 <br>
-
-***
 
 <br>
 
