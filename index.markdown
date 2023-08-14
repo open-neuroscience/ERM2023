@@ -123,7 +123,7 @@ The repository with the entire documentation about these systems can be found <a
 <h3 align="left"> Spikeling: An artificial and light-sensitive neuron for neuroscience education </h3>
 
 
-
+<div>
 <p style='text-align: justify;'>
 Understanding how neurons encode and compute information is fundamental to our study of the brain, but opportunities for hands-on experience with neurophysiological techniques on living neurons are scarce in science education.
 
@@ -138,7 +138,8 @@ It is an artificial neuron that can receive different inputs, integrate them and
 
 <p style='text-align: justify;'>
 Technically, it consists on a microcontroller (an ESP32) running the computationally efficient Izhikevich model of a spiking neuron.
-
+</p>
+</div>
 
 <br>
 
@@ -148,11 +149,9 @@ Technically, it consists on a microcontroller (an ESP32) running the computation
 <img align="center"  src="./assets/img//Spikeling_cover.png" width="350" height="225">
 
 <h6 align="center">Left: Rendering of spikeling electronic components. Right: Acrylic cover detailing spikeling functionalities.</h6>
-
 </div>
 
 <div>
-
 <p style='text-align: justify;'>
 The spikeling project emerged from local needs to teach neuroscience class modules for direct interaction with neuron physiology, data analysis, fluorescence imaging, protocol design, etc. The aim is to provide hands-on experience on how neurons encode information and how diverse variables modulates their activities, while engaging students with crucial aspects of data collection, experimental limitations, methodology and statistical analysis.
 
@@ -166,9 +165,8 @@ A dedicated GUI (Graphical User Interface) allows users to fully interact with S
 Overall, Spikeling is a versatile device, allowing any teaching staff to conceive dry-lab tutorials or home assignments related to their own teaching course materials.
 
 <p style='text-align: justify;'>
-Enthusiasts and potential collaborators can source the electronic bits for this project from <a href="https://kitspace.org/boards/github.com/maxzimmer/spikeling-v2/">KitSpace</a></p>
-
-
+Enthusiasts and potential collaborators can source the electronic bits for this project from <a href="https://kitspace.org/boards/github.com/maxzimmer/spikeling-v2/">KitSpace</a>
+</p>
 </div>
 
 
