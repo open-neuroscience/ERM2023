@@ -161,7 +161,7 @@ Enthusiasts and potential collaborators can source the electronic bits for this 
 
 
 
-<h2 align="center"> A brief summary of Spikeling functions</h3>
+<h2 align="center"> A brief summary of Spikeling functions</h2>
 
 <br>
 
