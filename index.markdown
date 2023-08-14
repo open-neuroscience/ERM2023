@@ -126,15 +126,19 @@ The repository with the entire documentation about these systems can be found <a
 <div>
 <p style='text-align: justify;'>
 Understanding how neurons encode and compute information is fundamental to our study of the brain, but opportunities for hands-on experience with neurophysiological techniques on living neurons are scarce in science education.
+</p>
 
 <p style='text-align: justify;'>
 Due to budgetary constraints and logistical hurdles, few students can be afforded the opportunity to experience electrophysiological recordings on living neurons in action. Yet, a fundamental aspect of neuroscience courses is to understand electrical signalling within neurons and the transmission of signals across synapses, as well as the experimental techniques necessary to observe these properties.
+</p>
 
 <p style='text-align: justify;'>
 To support university-level neuroscience teaching, we designed ‘Spikeling’, an open-source teaching support device that mimics the electrical properties of spiking neurons by running the computationally efficient yet versatile Izhikevich model.
+</p>
 
 <p style='text-align: justify;'>
 It is an artificial neuron that can receive different inputs, integrate them and outputs its computation, just like a spiking neuron would!
+</p>
 
 <p style='text-align: justify;'>
 Technically, it consists on a microcontroller (an ESP32) running the computationally efficient Izhikevich model of a spiking neuron.
