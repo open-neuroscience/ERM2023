@@ -5,7 +5,7 @@
 layout: home
 
 cover-img:
-  - "/assets/img/Tuebingen_banner.png" : "FENS"
+  - "/assets/img/Tuebingen_banner.png" : "ERM 2023 - Tuebingen"
 
 ---
 
