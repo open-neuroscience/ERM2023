@@ -10,7 +10,7 @@ cover-img:
 ---
 
 <div>
-<img align="left" width="100" src="./assets/Logos/ERM_2023.png"/></p>
+<img align="left" width="100" src="./assets/Logos/ERM_2023_Logo.png"/></p>
 <h1 align="center"> Open Hardware @ ERM 2023</h1>
 <h4 align="center"> Open Science tools for Neuroscience</h4>
 <p align="right">by
@@ -25,8 +25,10 @@ Open hardware development provides a collaborative and transparent framework tha
 
 
 <p style='text-align: justify;'>
-However, replicating open source devices could be time consuming or sometimes requires a specific set of skills to implement despite a clear open documentation. Open Source companies then offer consulting and manufacturing services for the installation and operation of these devices.
+However, replicating open source devices could be time consuming or even requires a specific set of skills to implement despite clear open documentation. Open Source companies then offer consulting and manufacturing services for the installation and operation of these devices.
 </p>
 
 <p style='text-align: justify;'>
 At the Tuebingen meeting, we will present various open source hardware devices dedicated to visual neuroscience research and education:</p>
+
+<h4
