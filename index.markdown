@@ -75,8 +75,8 @@ Stimulus can be designed, pre-visualised
 
 <br>
 <p>
-<img align="center" width="400" height="250" src="./assets/img/LEDzap_GUI.JPG"/>
-<img align="center" width="400" height="250" src="./assets/img/LEDzap_GUI2.JPG"/>
+<img align="center" width="350" height="225" src="./assets/img/LEDzap_GUI.JPG"/>
+<img align="center" width="350" height="225" src="./assets/img/LEDzap_GUI2.JPG"/>
 </p>
 <br>
 
