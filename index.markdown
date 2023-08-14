@@ -635,6 +635,8 @@ Where:
 
 $$ \eta_{t} = \sqrt{\varepsilon.S . ([Ca^{2+}]_{t}) + \sigma_{F}} . \varepsilon_{F,t} $$
 
+$$ x = y^2 $$
+
 <br>
 
 
