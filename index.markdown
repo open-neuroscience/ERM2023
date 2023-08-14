@@ -303,7 +303,7 @@ We would always encourage teachers to develop their own exercises based on the c
 
 <br>
 
-<h3 align="center">Detailed Spikeling functions</h3></p>
+<h3 align="center">Detailed Spikeling functions</h3>
 
 <br>
 
@@ -607,6 +607,7 @@ F_{t} = \alpha[Ca^{2+}]_{t} + \beta + \sigma_{F}.\varepsilon_{F,t}
 <div>
 <p align="center">
 <img align="center"  src="./assets/img/201_graph.png" width="350" height="225">
+</p>
 </div>
 
 <br>
@@ -640,5 +641,7 @@ Where:
 
 
 <div>
+<p align="center">
 <img align="center"  src="./assets/img/201_graphsat.png" width="350" height="225">
+</p>
 </div>
