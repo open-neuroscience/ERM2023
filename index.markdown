@@ -635,7 +635,7 @@ Where:
 
 <math> \eta_{t} = \sqrt{\varepsilon.S . ([Ca^{2+}]_{t}) + \sigma_{F}} . \varepsilon_{F,t} </math>
 
-n<sup>2</sup>
+&#8800
 
 <br>
 
