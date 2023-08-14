@@ -11,6 +11,7 @@ cover-img:
 
 <div>
 <img align="left" width="100" src="./assets/Logos/ERM_2023_Logo.png"/></p>
+</br>
 <h1 align="center"> Open Hardware @ ERM 2023</h1>
 <h4 align="center"> Open Science tools for Neuroscience</h4>
 <p align="right">by
