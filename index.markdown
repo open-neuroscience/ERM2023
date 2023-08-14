@@ -197,7 +197,7 @@ Each Spikeling unit possesses one “axonal” output and two “dendritic” in
 <br>
 
 <div>
-<h3 align="left"> Data analysis</h3></p>
+<h3 align="left"> Data analysis</h3>
 
 <p style='text-align: justify;'>
 Handling large dataset is an important part of daily academic work. However, few universities offer coding and programming modules for their neuroscience courses. A proper data analysis of any kind starts with the understanding of a program language and the understanding of every steps of the analysis pipeline. Only then, students can appreciate the results of their experiments and engage in their critical interpretation.
