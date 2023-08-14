@@ -34,11 +34,11 @@ At the Tuebingen meeting, we will present various open source hardware devices d
 
 <br>
 
-<h4 align="center"> Arbitrary spectrum visual stimulators for vision research: </h4>
+<h3 align="center"> Arbitrary spectrum visual stimulators for vision research: </h3>
 
 <br>
 
-<h5 align="left"> LED Zappelin': An Open Source and versatile LED controller for arbitrary spectrum visual stimulation and optogenetics during two-photon imaging. </h5>
+<h4 align="left"> LED Zappelin': An Open Source and versatile LED controller for arbitrary spectrum visual stimulation and optogenetics during two-photon imaging. </h4>
 
 <br>
 
@@ -65,4 +65,4 @@ Here, we present such a solution. Our system can line-synch up to 24 independent
 <br>
 
 
-<h4 align="left"> Spikeling: An artificial and light-sensitive neuron for neuroscience education </h4>
+<h3 align="left"> Spikeling: An artificial and light-sensitive neuron for neuroscience education </h3>
