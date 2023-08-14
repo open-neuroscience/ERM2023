@@ -478,24 +478,24 @@ With the auxiliary after-spike resetting:
 if:
 </p>
 
-```math
+<p align="center">
 v >= 30mV
-```
+ </p>
 <p align="center">
  then:
  </p>
 
- ```math
+<p align="center">
  v = c
- ```
+ </p>
 
 <p align="center">
  and:
  </p>
 
- ```math
+<p align="center">
  u = u + d
-```
+ </p>
 
 <br>
 
