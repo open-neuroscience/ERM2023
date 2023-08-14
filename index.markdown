@@ -143,9 +143,9 @@ Technically, it consists on a microcontroller (an ESP32) running the computation
 <br>
 
 <div>
-<img align="center" src="./assets/img//PCB.png" width="400" height="250" >
+<img align="center" src="./assets/img//PCB.png" width="350" height="225" >
 
-<img align="center"  src="./assets/img//Spikeling_cover.png" width="400" height="250">
+<img align="center"  src="./assets/img//Spikeling_cover.png" width="350" height="225">
 
 <h6 align="center">Left: Rendering of spikeling electronic components. Right: Acrylic cover detailing spikeling functionalities.</h6>
 
@@ -199,9 +199,9 @@ Each Spikeling unit possesses one “axonal” output and two “dendritic” in
 
 <div>
 
-<img align="center"  src="./assets/img//Spikeling_hardware.png" width="400" height="250">
+<img align="center"  src="./assets/img//Spikeling_hardware.png" width="350" height="225">
 
-<img align="center" src="./assets/img//101_graph.png" width="400" height="250">
+<img align="center" src="./assets/img//101_graph.png" width="350" height="225">
 
 <h6 align="center">Left: A Spikeling unit being stimulated by a direct current injection (blue cable) while receiving synaptic inputs from a second unit (pink cable). Right: Spikeling GUI displaying the unit membrane voltage (red trace) while being light-stimulated by a controlled LED (blue trace) which generates input current (green trace).</h6>
 
@@ -233,9 +233,9 @@ For advanced data analysis and basic statistics, python notebooks are provided t
 
 <div>
 
-<img align="center" src="./assets/img//103_dataanalysis.jpg" width="400" height="250">
+<img align="center" src="./assets/img//103_dataanalysis.jpg" width="350" height="225">
 
-<img align="center" src="./assets/img//103_data%20analysis.jpg" width="400" height="250">
+<img align="center" src="./assets/img//103_data%20analysis.jpg" width="350" height="225">
 
 <h6 align="center">GUI displaying the “Neuron Generator” page where users can appreciate the model underlying Spikeling activity and from which they can generate unique neuron to further run on Spikeling.</h6>
 
@@ -261,9 +261,9 @@ Here users are encouraged to develop their own stimulus (successive waves, sinus
 
 <div>
 
-<img align="center"  src="./assets/img/401_steps.jpg" width="400" height="250">
+<img align="center"  src="./assets/img/401_steps.jpg" width="350" height="225">
 
-<img align="center" src="./assets/img/401_sine.jpg" width="400" height="250">
+<img align="center" src="./assets/img/401_sine.jpg" width="350" height="225">
 
 <h6 align="center">GUI displaying the “Simulus Generator” page where users can generate their own unique stimuli. The left screen shows repetitive increments of current, as seen in classic electrophysiology experiments (10 steps with 10 a.u. current increment lasting 25 ms with a resting period of 5ms at 0 a.u. current). The right screen shows a sine wave stimulus (50 a.u. amplitude, 20 Hz frequency over a period of 250 ms and a resting period of 100 ms at 0 a.u. current)</h6>
 
@@ -292,9 +292,9 @@ For an even more realistic simulation, students could choose to move from a line
 
 <div>
 
-<img align="center"  src="./assets/img//201_graph.png" width="400" height="250">
+<img align="center"  src="./assets/img//201_graph.png" width="350" height="225">
 
-<img align="center" src="./assets/img//201_graphsat.png" width="400" height="250">
+<img align="center" src="./assets/img//201_graphsat.png" width="350" height="225">
 
 <h6 align="center">GUI displaying linear(left) and (non-linear) models of simulated fluorescence (green) based on simulated calcium concentration (pink)</h6>
 
@@ -546,9 +546,9 @@ All stimuli can then be saved and further loaded from the Spikeling main window.
 
 <div>
 
-<img align="center" width="400" height="250" src="./assets/img/401_steps.jpg">
+<img align="center" width="350" height="225" src="./assets/img/401_steps.jpg">
 
-<img align="center" width="400" height="250" src="./assets/img/401_sine.jpg">
+<img align="center" width="350" height="225" src="./assets/img/401_sine.jpg">
 
 <h6 align="center">GUI displaying the “Simulus Generator” page where users can generate their own unique stimuli. The left screen shows repetitive increments of current, as seen in classic electrophysiology experiments (10 steps with 10 a.u. current increment lasting 25 ms with a resting period of 5ms at 0 a.u. current). The right screen shows a sine wave stimulus (50 a.u. amplitude, 20 Hz frequency over a period of 250 ms and a resting period of 100 ms at 0 a.u. current)</h6>
 
@@ -558,9 +558,9 @@ All stimuli can then be saved and further loaded from the Spikeling main window.
 
 <div>
 
-<img align="center" width="400" height="250" src="./assets/img/401_triangle.jpg">
+<img align="center" width="350" height="225" src="./assets/img/401_triangle.jpg">
 
-<img align="center" width="400" height="250" src="./assets/img/401_ampchirp.jpg">
+<img align="center" width="350" height="225" src="./assets/img/401_ampchirp.jpg">
 
 <h6 align="center">GUI displaying the “Simulus Generator” page where users can generate their own unique stimuli. The left screen shows a triangular wave stimulus (50 a.u. amplitude, 20 Hz frequency over a period of 250 ms and a resting period of 100 ms at 0 a.u. current). The right screen shows a chirp stimulus with an increased intensity from a 0 to a 100 a.u. amplitude at 100 Hz over 1000 ms </h6>
 
@@ -570,9 +570,9 @@ All stimuli can then be saved and further loaded from the Spikeling main window.
 
 <div>
 
-<img align="center" width="400" height="250" src="./assets/img/401_linchirp.jpg">
+<img align="center" width="350" height="225" src="./assets/img/401_linchirp.jpg">
 
-<img align="center" width="400" height="250" src="./assets/img/401_expchirp.jpg">
+<img align="center" width="350" height="225" src="./assets/img/401_expchirp.jpg">
 
 <h6 align="center">GUI displaying the “Simulus Generator” page where users can generate their own unique stimuli. The left screen shows a linear chirp stimulus with an increased frequency from a 0 to a 50 Hz with an amplitude of 100 a.u. over 1000 ms. The right screen show the same stimulus with an exponential frequency increase </h6>
 
@@ -590,9 +590,9 @@ TBC
 
 <div>
 
-<img align="center" width="400" height="250" src="./assets/img/101_1SynapseDC01.jpg">
+<img align="center" width="350" height="225" src="./assets/img/101_1SynapseDC01.jpg">
 
-<img align="center" width="400" height="250" src="./assets/img/101_1SynapseDC02.jpg">
+<img align="center" width="350" height="225" src="./assets/img/101_1SynapseDC02.jpg">
 
 <h6 align="center"> ... </h6>
 
@@ -602,9 +602,9 @@ TBC
 
 <div>
 
-<img align="center" width="400" height="250" src="./assets/img/101_12SynapseDC01.jpg">
+<img align="center" width="350" height="225" src="./assets/img/101_12SynapseDC01.jpg">
 
-<img align="center" width="400" height="250" src="./assets/img/101_12SynapseDC02.jpg">
+<img align="center" width="350" height="225" src="./assets/img/101_12SynapseDC02.jpg">
 
 <h6 align="center"> ... </h6>
 
@@ -643,7 +643,7 @@ F_{t} = \alpha[Ca^{2+}]_{t} + \beta + \sigma_{F}.\varepsilon_{F,t}
 
 <div>
 <p align="center">
-<img align="center"  src="./assets/img/201_graph.png" width="400" height="250">
+<img align="center"  src="./assets/img/201_graph.png" width="350" height="225">
 
 </div>
 
@@ -680,6 +680,6 @@ Where:
 <div>
 
 <p align="center">
-<img align="center"  src="./assets/img/201_graphsat.png" width="400" height="250">
+<img align="center"  src="./assets/img/201_graphsat.png" width="350" height="225">
 
 </div>
