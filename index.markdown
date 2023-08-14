@@ -10,8 +10,8 @@ cover-img:
 ---
 
 <div>
-<h1 align="center"> Open Source Microscopy Symposium </h1>
-<h4 align="center"> Developing microscopy tools for neuroscience research and education</h4>
+<h1 align="center"> Open Hardware @ ERM 2023</h1>
+<h4 align="center"> Open Science tools for Neuroscience</h4>
 <p align="right">by
 <img align="right" width="300" src="./assets/Logos/ON.png"/></p>
 <br>
