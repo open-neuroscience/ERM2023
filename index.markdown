@@ -633,9 +633,7 @@ Where:
   - $S_{x} = \frac{x_{n}} {(x_{n} + kd)}$, where n is the Hill coefficient and kd the dissociation constant.
 - Assuming the primary noise source is photon shot noise, it would be appropriate to model noise as a Poisson process, which could be well approximated by a Gaussian distribution for large photon counts: $\eta_{t}$
 
-$$
-\eta_{t} = \sqrt{\varepsilon.S . ([Ca^{2+}]_{t}) + \sigma_{F}} . \varepsilon_{F,t}
-$$
+$$ \eta_{t} = \sqrt{\varepsilon.S . ([Ca^{2+}]_{t}) + \sigma_{F}} . \varepsilon_{F,t} $$
 
 <br>
 
