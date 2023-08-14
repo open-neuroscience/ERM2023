@@ -140,15 +140,19 @@ Technically, it consists on a microcontroller (an ESP32) running the computation
 <div>
 <p style='text-align: justify;'>
 The spikeling project emerged from local needs to teach neuroscience class modules for direct interaction with neuron physiology, data analysis, fluorescence imaging, protocol design, etc. The aim is to provide hands-on experience on how neurons encode information and how diverse variables modulates their activities, while engaging students with crucial aspects of data collection, experimental limitations, methodology and statistical analysis.
+</p>
 
 <p style='text-align: justify;'>
 In order to give users a full interactive experience with the Spikeling neuron, a drawing engraved on the cover details in a neuro-morphic fashion all device functionalities. Furthermore, a spike-triggered LED and buzzer have been added to the device.
+</p>
 
 <p style='text-align: justify;'>
 A dedicated GUI (Graphical User Interface) allows users to fully interact with Spikeling, plot all data generated and record them for further analysis.
+</p>
 
 <p style='text-align: justify;'>
 Overall, Spikeling is a versatile device, allowing any teaching staff to conceive dry-lab tutorials or home assignments related to their own teaching course materials.
+</p>
 
 <p style='text-align: justify;'>
 Enthusiasts and potential collaborators can source the electronic bits for this project from <a href="https://kitspace.org/boards/github.com/maxzimmer/spikeling-v2/">KitSpace</a>
