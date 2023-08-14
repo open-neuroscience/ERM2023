@@ -10,7 +10,7 @@ cover-img:
 ---
 
 <div>
-<img align="left" width="100" src="./assets/Logos/ERM_2023_LOGO.png"/>
+<img align="left" width="200" src="./assets/Logos/ERM_2023_LOGO.png"/>
 <br>
 <h1 align="center"> Open Hardware @ ERM 2023</h1>
 <h4 align="center"> Open Science tools for Neuroscience</h4>
@@ -33,4 +33,8 @@ At the Tuebingen meeting, we will present various open source hardware devices d
 
 <br>
 
-<h4 align="left">Arbitrary spectrum visual stimulators for vision research </h4>
+<h4 align="left"> Arbitrary spectrum visual stimulators for vision research </h4>
+
+<br>
+
+<h4 align="left"> Spikeling: An artificial and light-sensitive neuron for neuroscience education </h4>
