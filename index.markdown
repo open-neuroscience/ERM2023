@@ -65,11 +65,38 @@ The stimulator runs synchronous to the recording system using triggers generated
 </p>
 
 <p style='text-align: justify;'>
-LED Zappelin' comes in two versions. One that can control LEDs
+LED Zappelin' comes in two versions. One that can control user set LEDs, the second can be linked to external light generator such as the <a href="https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=13597">Thorlabs Chrolis system </a>
+</p>
+
+<p style='text-align: justify;'>
+LED Zappelin' comes with a dedicated GUI, which allow intuitive control over the device.
+Stimulus can be designed, pre-visualised
+</p>
+
+<br>
+<p>
+<img align="left" width="400" src="./assets/img/LEDzap_GUI.jpg"/>
+<img align="right" width="400" src="./assets/img/LEDzap_GUI2.jpg"/>
+</p>
+<br>
+
+The repository with the entire documentation about these systems can be found <a href="https://github.com/OpenSourceNeuro/LED-Zappelin-V2">here</a>
 
 </div>
 
 <br>
 
+<div>
+
+<h4 align="left"> PoorLabs Stimulator: An open visual stimulator granting the use of multiple arbitrary light source in combination with a DMD-based LightCrafter </h4>
+
+Following our previous <a href="https://elifesciences.org/articles/48779">publication</a>, we here present a device which combines two <a href="https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=13597">Thorlabs Chrolis </a>
+light sources and one <a href="https://www.ti.com/lit/ug/dlpu011f/dlpu011f.pdf?ts=1692029634948">DLP LightCrafter 4500</a>. User can then choose to combine 3 to 6 distinct chromatic light sources out of 12.
+
+<br>
+
+</div>
+
+<br>
 
 <h3 align="left"> Spikeling: An artificial and light-sensitive neuron for neuroscience education </h3>
